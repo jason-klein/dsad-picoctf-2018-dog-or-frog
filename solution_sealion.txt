@@ -1,0 +1,11 @@
+python3 solution_sealion.py
+Using TensorFlow backend.
+Model's predicted likelihood that the image is a sea lion: 5.2735583e-09%
+Model's predicted likelihood that the image is a sea lion: 4.917974%
+Model's predicted likelihood that the image is a sea lion: 72.634089%
+Model's predicted likelihood that the image is a sea lion: 95.583481%
+Model's predicted likelihood that the image is a sea lion: 87.651229%
+Model's predicted likelihood that the image is a sea lion: 98.602211%
+Model's predicted likelihood that the image is a sea lion: 85.080117%
+Model's predicted likelihood that the image is a sea lion: 99.600595%
+

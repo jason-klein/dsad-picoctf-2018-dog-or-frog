@@ -1,0 +1,10 @@
+python3 solution_ostrich.py
+Using TensorFlow backend.
+Model's predicted likelihood that the image is an ostrich: 1.5089911e-08%
+Model's predicted likelihood that the image is an ostrich: 7.4689254%
+Model's predicted likelihood that the image is an ostrich: 55.554062%
+Model's predicted likelihood that the image is an ostrich: 90.919298%
+Model's predicted likelihood that the image is an ostrich: 87.222105%
+Model's predicted likelihood that the image is an ostrich: 97.885555%
+Model's predicted likelihood that the image is an ostrich: 68.198866%
+Model's predicted likelihood that the image is an ostrich: 99.668187%

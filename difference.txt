@@ -1,0 +1,19 @@
+
+python3 difference.py frog.png
+P hash distance from original dog photo: 13
+
+python3 difference.py trixi.png
+P hash distance from original dog photo: 0
+
+python3 difference.py trixi_frog.png
+P hash distance from original dog photo: 0
+
+python3 difference.py trixi_ostrich.png
+P hash distance from original dog photo: 0
+
+python3 difference.py trixi_sealion.png
+P hash distance from original dog photo: 0
+
+python3 difference.py trixi_sealion_sample.png
+P hash distance from original dog photo: 0
+

@@ -1,0 +1,30 @@
+
+python3 prediction.py trixi.png
+[[('n02105162', 'malinois', 0.51700264),
+ ('n02106662', 'German_shepherd', 0.48188475),
+ ('n02105412', 'kelpie', 0.0005297793),
+ ('n02091467', 'Norwegian_elkhound', 0.0002794615),
+ ('n02109047', 'Great_Dane', 7.942283e-05)]]
+
+python3 prediction.py trixi_frog.png
+[[('n01644373', 'tree_frog', 0.9949826),
+('n02105162', 'malinois', 0.0020388057),
+('n01644900', 'tailed_frog', 0.0016889112),
+('n02091032', 'Italian_greyhound', 0.00028007643),
+('n01641577', 'bullfrog', 0.00018081904)]]
+
+python3 prediction.py trixi_sealion.png
+[[('n02077923', 'sea_lion', 0.99979633),
+('n02113978', 'Mexican_hairless', 7.411193e-05),
+('n02444819', 'otter', 5.8479272e-05),
+('n01695060', 'Komodo_dragon', 1.4224809e-05),
+('n02137549', 'mongoose', 8.456994e-06)]]
+
+python3 prediction.py trixi_ostrich.png
+Using TensorFlow backend.
+[[('n01518878', 'ostrich', 0.98727036),
+('n02105162', 'malinois', 0.0064182156),
+('n02106662', 'German_shepherd', 0.004680238),
+('n04597913', 'wooden_spoon', 0.00071154535),
+('n02091467', 'Norwegian_elkhound', 0.00014280216)]]
+

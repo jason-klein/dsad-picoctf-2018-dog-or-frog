@@ -1,0 +1,8 @@
+python3 solution_frog.py
+Model's predicted likelihood that the image is a tree frog: 1.0298706e-09%
+Model's predicted likelihood that the image is a tree frog: 1.7842248%
+Model's predicted likelihood that the image is a tree frog: 87.817872%
+Model's predicted likelihood that the image is a tree frog: 98.974693%
+Model's predicted likelihood that the image is a tree frog: 90.498799%
+Model's predicted likelihood that the image is a tree frog: 99.204844%
+
